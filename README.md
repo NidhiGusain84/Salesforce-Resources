@@ -1,3 +1,10 @@
+# 🔹 Key Topics Covered:
+
+🔹Accessing Static Resources
+🔹Leveraging Custom Labels
+🔹Retrieving User IDs
+🔹Integrating Third-Party JavaScript
+🔹Importing External CSS Styles
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
